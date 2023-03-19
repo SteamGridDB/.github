@@ -1,5 +1,5 @@
-[![SteamGridDB for Decky Loader](/profile/decky.png)](https://github.com/SteamGridDB/decky-steamgriddb)
+[![SteamGridDB for Decky Loader](https://raw.githubusercontent.com/SteamGridDB/.github/main/profile/decky.png)](https://github.com/SteamGridDB/decky-steamgriddb)
 
-[![Steam ROM Manager](/profile/srm.png)](https://github.com/SteamGridDB/steam-rom-manager)
+[![Steam ROM Manager](https://raw.githubusercontent.com/SteamGridDB/.github/main/profile/srm.png)](https://github.com/SteamGridDB/steam-rom-manager)
 
-[![SGDBoop](/profile/boop.png)](https://github.com/SteamGridDB/SGDBoop)
+[![SGDBoop](https://raw.githubusercontent.com/SteamGridDB/.github/main/profile/boop.png)](https://github.com/SteamGridDB/SGDBoop)
